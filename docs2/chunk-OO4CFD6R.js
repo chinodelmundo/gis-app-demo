@@ -1,0 +1,1 @@
+import{Fb as r,Nb as s,ba as o,pb as i,qb as a}from"./chunk-GVIPV5PD.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-settings-page"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,m){n&1&&(i(0,"p"),r(1,"settings-page works!"),a())}});let t=e;return t})();export{f as SettingsPageComponent};
